@@ -1,0 +1,11 @@
+GitHub is an Internet hosting service for software development and version control using Git. It provides
+ the distributed version control of Gits access control, bug tracking, software feature requests, task
+ management, continuous integration, and wikis for every project. Headquartered in California, it has been
+  a subsidiary of Microsoft since 2018.
+Some remarkable features of GitHub are :-
+
+Commit History can be seen
+Graphs: pulse, contributors, commits, code frequency, members of it.
+Pull requests with code review and comments
+Issue Tracking
+Email notifications
