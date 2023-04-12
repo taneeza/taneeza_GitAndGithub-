@@ -2,8 +2,20 @@ Git is a distributed version control system that tracks changes in any set of co
  used for coordinating work among programmers collaboratively developing source code during software development.
  Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands
  of parallel branches running on different systems).
+Features: Here are some basic and most important features of Git:
 
-GitHub is an Internet hosting service for software development and version control using Git. It provides
- the distributed version control of Gits access control, bug tracking, software feature requests, task
- management, continuous integration, and wikis for every project. Headquartered in California, it has been
-  a subsidiary of Microsoft since 2018.
+          Distributed System:
+          Distributed systems are those which allow the users to perform work on a project from all over the world.
+          Compatibility:
+          Git is compatible with all the Operating Systems that are being used these days.
+          Non-linear Development:
+          Git allows users from all over the world to perform operations on a project remotely.
+          Branching:
+          Git allows its users to work on a line that runs parallel to the main project files.
+          Lightweight:
+          Git stores all the data from the central repository on to the local repository while cloning is done.
+          Open-Source:
+          Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+          Secure:
+          Git keeps a record of all the commits done by each of the collaborators on the local copy of the developer.
+          Economical:Git is released under the General Public’s License(GPL) and hence it is available for free.
