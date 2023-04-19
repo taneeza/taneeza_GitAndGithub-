@@ -20,4 +20,6 @@ Features: Here are some basic and most important features of Git:
           Git keeps a record of all the commits done by each of the collaborators on the local copy of the developer.
           Economical:Git is released under the General Public’s License(GPL) and hence it is available for free.
 
- this line is added by Aysha in git.text
+
+this line is added by Aysha in git.text
+this line added by owner taneeza
